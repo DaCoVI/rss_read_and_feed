@@ -1,0 +1,6 @@
+.coverage
+coverage.xml
+.venv/
+*.pyc
+.env
+**.egg-info/
