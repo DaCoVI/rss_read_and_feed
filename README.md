@@ -30,7 +30,7 @@ Das finale Ergebnis ist eine Liste von einheitlichen Python‑Objekten, die alle
 
 ## Eingesetzte Design‑Patterns
 
-    Hinweis: In einem echten Projekt würde ich wesentlich sparsamer mit Patterns umgehen. Hier dienen viele davon vor allem dem Lernen und Üben, nicht der Effizienz.
+Hinweis: In einem echten Projekt würde ich wesentlich sparsamer mit Patterns umgehen. Hier dienen viele davon vor allem dem Lernen und Üben, nicht der Effizienz.
 
 - Factory-Method
 - Builder
